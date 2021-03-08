@@ -13,6 +13,7 @@ The main objectives are:
 
 ## Election-Audit Results
 As shown in the printed report(*Graph 1*), there were 369,711 votes cast in this congressional election. This number is calculated by adding data row by row from the input file within a `for` loop in the script. The total votes add 1 per round of the loop from the second line in the input data to the last line.
+
 ![Election_Results](https://user-images.githubusercontent.com/78275082/110264969-77f8b580-7f88-11eb-92c1-beac17c23a0f.png)
 *(Graph 1 Election Results)*
 ### Votes by counties
