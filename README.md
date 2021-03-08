@@ -30,8 +30,8 @@ Clearly Denver had the largest number of votes. These numbers were counted and c
 Using the same method, votes gained by each candidate were analyzed. 
 
 - 23.0% of votes (85,213) went to Charles Casper Stockham, 
-- 73.8% (272,892) went to Diana DeGette and 
-- 3.1% (11,606) went to Raymon Anthony Doane. 
+- 73.8% of votes (272,892) went to Diana DeGette, 
+- 3.1% of votes (11,606) went to Raymon Anthony Doane. 
 
 Obviously, the winner of the election is Diana DeGette by 272,892 votes, which counts for 73.8% of the total votes.
 
